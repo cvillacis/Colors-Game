@@ -8,7 +8,7 @@ public class Die
    
    public Die()
    {
-      sides = 6;
+      sides = 15;
       value = 1;
       
    }// end of Die constructor method 
